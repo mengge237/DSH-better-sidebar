@@ -1,5 +1,7 @@
 # dsh-better-sidebar
 
+> **这是 fork**，上游是 [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)。我在这里的提交：[#580 (open) 建议增加内置页：本会话技能清单与使用状态 / Proposal: built-in "Skills" page (catalog + used-in-session)]。日常使用请取主仓库，本 fork 只用于上游投递与本地补丁。
+
 <!-- Hero -->
 <div align="center">
   <b style="font-size: 1.15em;">一个服务化的侧边栏框架，一套开箱即用的完整工作台</b><br /><br />
